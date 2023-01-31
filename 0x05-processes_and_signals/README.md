@@ -40,3 +40,6 @@ The files contained in this repository includes
 
 #### `8-beheaded_process`
   - This file contains a `Bash Script` that kills the process `7-highlander`.
+
+#### `100-process_and_pid_file`
+  - This file contains a `Bash Script` that creates an infinite loop with pid, catches signal, and removes file/exits the program.
