@@ -1,0 +1,4 @@
+#!/usr/bin/python3
+# A bash script that displays PID along with process name that has bash
+
+pgrep -l bash
