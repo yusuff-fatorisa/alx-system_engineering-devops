@@ -14,3 +14,6 @@ This repository contains tasks and projects on `Loops, Conditions & Parsing` via
 
 #### `0-RSA_public_key.pub`
   - This file contains the `public key` of the generated `ssh`.
+
+#### `1-for_best_school`
+  - This file contains a `Bash Script` that displays the text `Best School` 10 times.
