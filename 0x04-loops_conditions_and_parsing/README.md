@@ -25,3 +25,6 @@ This repository contains tasks and projects on `Loops, Conditions & Parsing` via
   - This file contains 	a `Bash Script` that displays `Best School` 10 times using `until` loop.
 #### `4-if_9_say_hi`
   - This file contains a `Bash Script` that prints `Best School` 10 times also implemeenting the `if else` statement in between.
+
+#### `5-4_bad_luck_is_your_chance`
+  - This file contains a `Bash Script` that loops from 1 to 10, then displays `bad luck` for the 4th loop iteration, then displays `good luck` for the 8th loop iteration and then displays `Best School` for the other iterations.
