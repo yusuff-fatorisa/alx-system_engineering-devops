@@ -17,3 +17,6 @@ This repository contains tasks and projects on `Loops, Conditions & Parsing` via
 
 #### `1-for_best_school`
   - This file contains a `Bash Script` that displays the text `Best School` 10 times.
+
+#### `2-while_best_school`
+  - This file contains a `Bash Script` that displays `Best School` 10 times.
