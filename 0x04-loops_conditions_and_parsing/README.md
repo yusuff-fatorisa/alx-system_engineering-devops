@@ -23,3 +23,5 @@ This repository contains tasks and projects on `Loops, Conditions & Parsing` via
 
 #### `3-until_best_school`
   - This file contains 	a `Bash Script` that displays `Best School` 10 times using `until` loop.
+#### `4-if_9_say_hi`
+  - This file contains a `Bash Script` that prints `Best School` 10 times also implemeenting the `if else` statement in between.
