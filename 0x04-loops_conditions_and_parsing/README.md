@@ -16,7 +16,10 @@ This repository contains tasks and projects on `Loops, Conditions & Parsing` via
   - This file contains the `public key` of the generated `ssh`.
 
 #### `1-for_best_school`
-  - This file contains a `Bash Script` that displays the text `Best School` 10 times.
+  - This file contains a `Bash Script` that displays the text `Best School` 10 times using `for` loop.
 
 #### `2-while_best_school`
-  - This file contains a `Bash Script` that displays `Best School` 10 times.
+  - This file contains a `Bash Script` that displays `Best School` 10 times using `while` loop.
+
+#### `3-until_best_school`
+  - This file contains 	a `Bash Script` that displays `Best School` 10 times using `until` loop.
