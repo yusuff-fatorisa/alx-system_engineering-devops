@@ -2,19 +2,18 @@
 # This file displays the time for '12 hours' and '59 minutes'
 # displays hours from 0 to 13
 # displays minutes from 1 to 59
-# all using a while loop
+# all using a nested while loop
 
 x=0
-y=1
 
-while [ $x -lt 12 ]
+while [ $x -le 12 ]
 do
 	echo "Hour: $x"
+	y=0
 	while [ $y -le 59 ]
 	do
 		echo "$y"
 		y=$(( y + 1))
 	done
-	y=0
 	x=$(( x + 1 ))
 done

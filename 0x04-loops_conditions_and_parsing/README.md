@@ -34,3 +34,6 @@ This repository contains tasks and projects on `Loops, Conditions & Parsing` via
 
 #### `7-clock`
   - This file contains a `Bash Script` that displays time for 12 hours and 59 minutes. It displays `hours` from `0 to 12` and displays `minutes` from `1 to 59`.
+
+#### `8-for_ls`
+  - This file contains a `Bash Script` that displays the content of the current directory in a list format, where only the part of the name after the first dash is displayed.
