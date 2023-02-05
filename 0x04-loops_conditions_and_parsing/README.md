@@ -28,3 +28,6 @@ This repository contains tasks and projects on `Loops, Conditions & Parsing` via
 
 #### `5-4_bad_luck_is_your_chance`
   - This file contains a `Bash Script` that loops from 1 to 10, then displays `bad luck` for the 4th loop iteration, then displays `good luck` for the 8th loop iteration and then displays `Best School` for the other iterations.
+
+#### `6-superstitious_numbers`
+  - This file contains a `Bash Script` that displays numbers from `1 to 20` and, displays `4` and then 'bad luck from China' for the `4th loop iteration`, displays `9` and then `bad luck from Japan` for the `9th loop iteration` or displays `17` and then `bad luck from Italy` for the `17th loop iteration`.
