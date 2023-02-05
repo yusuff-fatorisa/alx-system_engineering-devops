@@ -40,3 +40,6 @@ This repository contains tasks and projects on `Loops, Conditions & Parsing` via
 
 #### `9-to_file_or_not_to_file`
   - This file contains a `Bash Script` that gives information about the `School` file.
+
+#### `10-fizzbuzz`
+  - This file contains a `Bash Script` that displays the numbers from `1 to 100`. It prints `FizzBuzz` when the number is a multiple of `3 and 5`. Displays `Fizz` when the number is a multiple of `3`/ Displays `Buzz` when the number is a multiple of `5`, otherwise, it displays the number itself.
