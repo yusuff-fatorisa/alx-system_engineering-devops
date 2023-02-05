@@ -37,3 +37,6 @@ This repository contains tasks and projects on `Loops, Conditions & Parsing` via
 
 #### `8-for_ls`
   - This file contains a `Bash Script` that displays the content of the current directory in a list format, where only the part of the name after the first dash is displayed.
+
+#### `9-to_file_or_not_to_file`
+  - This file contains a `Bash Script` that gives information about the `School` file.
